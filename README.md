@@ -4,32 +4,32 @@
 
 ---
 
-[![LinkedIn](https://linkedin.com/in/larissa-cristina-alves/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-cristina-alves/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-`Linux` `Windows` `Python` `SQL`  
-`Burp Suite` `OWASP ZAP` `Nmap` `Wireshark` `Splunk`
+`Linux (Kali)` `Python` `SQL` `Bash`  
+`Metasploit` `Nmap` `Wireshark` `Burp Suite` `Splunk`
 
 ---
 
 ## 👩‍💻 Sobre mim
 
 🎯 Em transição para **Segurança da Informação**  
-📊 2+ anos como Analista de TI (Linx Sistemas)  
-📚 Estudando: **Splunk • Ethical Hacking (Cisco) • Tecnólogo em Segurança da Informação (Fadergs)**
+📊 Experiência consolidada como Analista de TI  
+📚 Graduanda em **Segurança da Informação (Fadergs)**  
+🏅 Certificações em andamento: **Junior Penetration Tester (TryHackMe)** e **Ethical Hacking (Cisco)**
 
 ---
 
-## 📌 Projetos
+## 📌 Projetos em Destaque
 
-🔹 [**Lab SIEM com Splunk**](link) – Configuração, coleta de logs e simulação de ataques  
-🔹 [**Estudos em Segurança Ofensiva**](link) – Anotações e laboratórios práticos
+🔹 [**EchatonGaze v2.0**](https://github.com/AlariPWN/EchatonGaze) – Ferramenta de **Passive OSINT** desenvolvida em Python para reconhecimento de metadados, extração de e-mails via commits e mapeamento de assets em repositórios públicos.
 
 ---
 
 <div align="center">
-  <i>"Segurança é processo, não produto." – Bruce Schneier</i>
+  <i>"Segurança é um processo, não um produto." – Bruce Schneier</i>
 </div>
