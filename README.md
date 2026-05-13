@@ -17,16 +17,16 @@
 
 ## 👩‍💻 Sobre mim
 
-🎯 Em transição para **Segurança da Informação**  
-📊 Experiência consolidada como Analista de TI  
-📚 Graduanda em **Segurança da Informação (Fadergs)**  
-🏅 Certificações em andamento: **Junior Penetration Tester (TryHackMe)** e **Ethical Hacking (Cisco)**
+🎯 Em transição focada para **Segurança da Informação**  
+📊 **Analista de TI** com experiência anterior na **Linx Sistemas**, atuando com suporte técnico e análise de sistemas.  
+📚 Graduanda em **Segurança da Informação (Faculdade Fadergs)**  
+🏅 Certificações em foco: **Junior Penetration Tester (TryHackMe)** e **Ethical Hacking (Cisco)**
 
 ---
 
 ## 📌 Projetos em Destaque
 
-🔹 [**EchatonGaze v2.0**](https://github.com/AlariPWN/EchatonGaze) – Ferramenta de **Passive OSINT** desenvolvida em Python para reconhecimento de metadados, extração de e-mails via commits e mapeamento de assets em repositórios públicos.
+🔹 [**EchatonGaze v2.0**](https://github.com/AlariPWN/EchatonGaze) – Ferramenta de **Passive OSINT** desenvolvida em Python para reconhecimento de metadados, extração de e-mails via commits e mapeamento de assets.
 
 ---
 
